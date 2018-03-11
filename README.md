@@ -2,4 +2,5 @@
 
 ## メモへのリンク
 
-[第 2 章：ユーザモードで実現する機能](./02-syscall-and-non-kernel-os/memo.md)
+- [第 2 章：ユーザモードで実現する機能](./02-syscall-and-non-kernel-os/memo.md)
+- [第 3 章：プロセス管理](./03-process-management/memo.md)
