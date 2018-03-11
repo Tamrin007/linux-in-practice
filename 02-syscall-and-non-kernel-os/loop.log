@@ -1,0 +1,11 @@
+Linux 4.4.0-116-generic (ubuntu-xenial) 	03/11/2018 	_x86_64_	(2 CPU)
+
+11:53:35 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+11:53:36 AM     all     45.05      0.00      0.00      0.00      0.00     54.95
+11:53:36 AM       0    100.00      0.00      0.00      0.00      0.00      0.00
+11:53:36 AM       1      0.99      0.00      0.00      0.00      0.00     99.01
+
+Average:        CPU     %user     %nice   %system   %iowait    %steal     %idle
+Average:        all     45.05      0.00      0.00      0.00      0.00     54.95
+Average:          0    100.00      0.00      0.00      0.00      0.00      0.00
+Average:          1      0.99      0.00      0.00      0.00      0.00     99.01
